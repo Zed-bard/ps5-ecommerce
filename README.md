@@ -28,5 +28,5 @@ Make sure you have the following installed:
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/ps5-ecommerce.git
+   git clone https://github.com/Zed-bard/ps5-ecommerce/blob/master/README.md
 
