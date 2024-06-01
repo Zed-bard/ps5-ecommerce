@@ -1,8 +1,7 @@
 # PS5 eCommerce Website 🎮🛒
 
 Welcome to the PS5 eCommerce website repository! This project is developed as part of a school project, aimed at creating a seamless online shopping experience for PlayStation 5 enthusiasts.
-
-![PS5 eCommerce](link-to-your-image)
+![ps5-ecommerce ui](https://github.com/Zed-bard/ps5-ecommerce/assets/132649828/74dc0127-0dde-4b48-8a61-7cac8d975917)
 
 ## 🌟 Project Overview
 This project is a comprehensive eCommerce platform dedicated to the PlayStation 5. It allows users to browse and purchase PS5 consoles, games, and accessories, providing a user-friendly and secure shopping experience.
